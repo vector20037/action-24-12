@@ -10,9 +10,4 @@ jobs:
       - name: print build
         run: echo "this is 1st build"
       
-    
 
-      - name: Run a multi-line script
-        run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
